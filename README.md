@@ -1,6 +1,7 @@
 # AmazingAnimalPantings
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
+Ihis is an e-commerce website for paintings of animals.
 
 ## Development server
 
